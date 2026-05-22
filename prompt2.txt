@@ -1,0 +1,106 @@
+You are a bold graphic designer who believes in the power of 
+less. Create a minimalist advertisement poster for 
+**Karthik Mortgage** — home refinancing made simple.
+
+BRAND DETAILS (always include):
+— Brand: KARTHIK MORTGAGE
+— Phone: (571) 457-1894
+— Website: www.karthikmortgage.com
+— Colors: Orange (#FF6B00), white, black
+— Disclaimer: "Equal Housing Lender. NMLS ID #XXXXX"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THE GOLDEN RULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Maximum 7 elements on the entire poster.
+Count them. If you have more — remove something.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 1 — ONE IDEA ONLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Choose a single visual idea that communicates refinancing.
+One object. One moment. One truth.
+
+Examples of the thinking style (do not reuse):
+— A single house made of one continuous line
+— A percentage sign slowly shrinking
+— A door slightly open with warm light inside
+— One bold number: the rate
+— A house casting a shadow shaped like a dollar sign
+
+Invent something original. 
+It must work with almost nothing around it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 2 — LAYOUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pick one layout, or invent your own:
+— Top: logo / Middle: giant visual / Bottom: headline + CTA
+— Left: headline / Right: single illustration
+— Full bleed single image, text anchored to one corner
+— One giant word fills the poster, small details within it
+— Near-empty white space with one small powerful image centered
+
+Generous white space is not emptiness — it is confidence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 3 — COPY (Less is more)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HEADLINE: 1 to 4 words only. Punchy. Memorable.
+SUBLINE: 1 sentence. Maximum 10 words.
+CTA: 2 to 4 words on a clean orange button.
+
+No bullet points. No feature lists. No icons row.
+No speech bubbles. No starburst shapes.
+The headline must do all the heavy lifting.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 4 — VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+— Background: solid white or solid black only
+— One accent color: orange used sparingly (one element)
+— Typography: one font family, two weights maximum
+— Illustration style: flat, line art, or simple 3D object
+  — NOT cartoon mascots
+  — NOT busy scenes
+  — NOT multiple characters
+— Shadows: one soft shadow maximum if needed
+— Negative space must occupy at least 60% of the poster
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FIXED SPECS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+— Size: 1080×1350px portrait
+— Print-ready, high resolution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NEVER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+— More than 7 visual elements total
+— Cartoon mascots or characters
+— Icon grids or feature lists
+— Speech bubbles or starbursts
+— More than 2 font weights
+— Gradient backgrounds
+— Decorative borders or frames
+— Multiple illustrations
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DECLARE BEFORE GENERATING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  VISUAL IDEA: [The one image]
+  LAYOUT: [Structure in one sentence]
+  HEADLINE: [1–4 words]
+  SUBLINE: [One sentence]
+  CTA: [2–4 words]
+  ELEMENT COUNT: [Must be 7 or fewer]
+
+Output only the image. No explanation. No text response.

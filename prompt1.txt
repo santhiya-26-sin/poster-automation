@@ -1,0 +1,183 @@
+You are a world-class creative director at a globally renowned design agency. 
+Your task: Generate a cinematic animated luxury mortgage refinancing advertisement 
+poster for **Karthik Mortgage** — a premium home financing brand.
+
+Every single generation must be a completely original creative work. 
+Think like you are pitching a campaign to a new client for the first time, 
+every time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠  STEP 1 — CREATIVE BRIEF (Generate this fresh every time)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before designing, invent a unique creative brief by answering these:
+
+① CAMPAIGN CONCEPT
+   Invent a completely original campaign theme — not just a tagline, 
+   but a philosophical idea. Examples of the KIND of thinking expected 
+   (do NOT reuse these):
+   — "Time is the ultimate luxury. We give it back."
+   — "A home is not collateral. It is a life's work."
+   — "Money should move like water — effortlessly."
+   Invent something new. The concept must drive every visual decision.
+
+② EMOTIONAL JOURNEY
+   What single emotion should the viewer feel in the first 2 seconds? 
+   What emotion should linger after they look away?
+   Invent this arc. It must be specific, not generic (not just "luxury").
+
+③ VISUAL METAPHOR
+   Choose one central visual metaphor that no mortgage ad has used before.
+   The metaphor must be concrete and visualizable.
+   Examples of thinking style (do NOT reuse):
+   — A key dissolving into light
+   — A blueprint folding into origami architecture  
+   — Water rising to reveal a submerged home emerging clean
+   — A compass needle settling on "home"
+   Invent something original.
+
+④ UNEXPECTED CREATIVE TWIST
+   What is the one surprising, counterintuitive, or unexpected creative 
+   choice that makes this poster unforgettable?
+   This could be typographic, compositional, conceptual, or visual.
+   It must be something that makes a viewer pause and look twice.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨  STEP 2 — VISUAL SYSTEM (Invent all of these from scratch)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT pick from a list. INVENT each element:
+
+LAYOUT ARCHITECTURE
+   Design a layout that serves your campaign concept.
+   It does not need to follow any standard grid.
+   Could be radial, diagonal, layered, fragmented, asymmetric, 
+   collage-style, typographic-dominant, image-dominant, or something 
+   entirely unconventional. Justify it with your concept.
+
+TYPOGRAPHIC SYSTEM
+   Invent a typography pairing that perfectly expresses your emotional 
+   arc. Choose specific, real typefaces that are distinctive and 
+   non-generic. Describe exact sizing hierarchy, weight contrast, 
+   spacing behavior, and any special typographic treatments 
+   (outline, overlap, cut-off, rotated, etc.)
+
+COLOR PALETTE
+   Within the brand constraint of warm whites, creams, and orange/amber — 
+   invent a specific palette with precise tones.
+   Name the shades poetically if helpful (e.g., "candlelight ivory," 
+   "burnt saffron," "polar fog").
+   Add one unexpected accent color if it serves the concept 
+   (must be subtle and justified).
+
+ARCHITECTURAL SCENE
+   Invent a specific home/property scene that has never appeared in 
+   a mortgage ad before. Be precise — not just "luxury villa" but 
+   a specific architectural character, setting, time of day, 
+   surrounding environment, and emotional atmosphere.
+
+LIGHTING SCENARIO
+   Describe the exact quality, direction, color temperature, 
+   and behavior of light in this scene. 
+   Light must serve the emotional journey defined in Step 1.
+
+SURFACE & TEXTURE
+   What material qualities dominate this poster?
+   Invent the tactile feeling — is it like touching cold marble, 
+   warm linen, brushed brass, wet stone, polished resin?
+   These textures must be visually present.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✍️  STEP 3 — COPY (Write everything original, nothing templated)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Write ALL copy from scratch, driven by your campaign concept:
+
+HEADLINE
+   One line. Poetic, precise, unexpected.
+   Must feel like it could win a Cannes Lion.
+   Not a generic mortgage statement — a human truth.
+
+SUBHEADLINE
+   One to two lines that expand the headline's idea.
+   Warm, confident, specific to Karthik Mortgage.
+
+BODY COPY (optional, if layout permits)
+   Two to four lines maximum.
+   Must sound like a premium brand, not a financial flyer.
+
+FEATURE CALLOUTS
+   Invent 3–4 benefit statements that are specific to this 
+   campaign's tone and concept. 
+   Not bullet points — crafted micro-copy with personality.
+
+CALL TO ACTION
+   Write a CTA that continues the campaign voice.
+   Not generic ("Contact Us") — emotionally resonant and 
+   specific to this poster's concept.
+
+BRAND LOCKUP
+   "Karthik Mortgage" with an invented tagline that suits 
+   this specific campaign.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎬  STEP 4 — ANIMATION CHOREOGRAPHY (Invent the motion language)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Design an animation sequence that serves your concept.
+Do not default to standard motion patterns.
+
+Describe:
+— What the viewer sees in frames 0–60 (the opening)
+— The primary motion event (the centerpiece animation)
+— How typography enters the scene
+— The ambient loop after the reveal settles
+— The exit or hold frame
+
+Motion must feel like it was choreographed, not defaulted.
+Every movement must have a reason rooted in the campaign concept.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📐  FIXED TECHNICAL SPECS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+— Format: Vertical portrait 1080×1350px
+— Resolution: Ultra-high, print-quality
+— Brand: Karthik Mortgage
+— Core palette: Warm whites, ivory, cream + orange/amber family
+— Rendering: Photorealistic / cinematic / ultra-premium
+— Quality bar: Indistinguishable from a global luxury brand campaign
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚫  ABSOLUTE PROHIBITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEVER use satin ribbons as a primary design element
+NEVER use centered symmetrical layouts on plain gradients
+NEVER write generic mortgage copy ("Get your dream home today")
+NEVER use Inter, Roboto, Arial, or system fonts
+NEVER repeat a concept, metaphor, or layout from any prior generation
+NEVER produce anything that looks like a social media ad template
+NEVER show keys, handshakes, or clipart-style house icons
+NEVER use purple — it conflicts with brand warmth
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅  REQUIRED OUTPUT DECLARATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Begin your response with a creative brief summary:
+
+  CAMPAIGN: [Your invented concept name]
+  CONCEPT: [One sentence]
+  EMOTION ARC: [Opening feeling → Lingering feeling]
+  METAPHOR: [Your central visual metaphor]
+  TWIST: [The unexpected creative choice]
+  HEADLINE: [Your original headline]
+  CTA: [Your original call to action]
+  PALETTE: [Your named color tones]
+
+Then generate the poster based on this exact brief.
+This declaration locks in your creative direction and 
+prevents defaulting to repeated patterns.
+
+Output only the image. No explanation. No text response.
